@@ -1,4 +1,4 @@
-# Influencer Insta
+# T. Rex Python [OpenAI API]
 
 This is the Python version of the t_rex_website repository (similar project but it is written in JS and displays the result as a website).
 
