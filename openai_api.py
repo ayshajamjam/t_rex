@@ -57,3 +57,6 @@ def get_image_url(topic):
 # Save image
 def save_img(img_url):
     urllib.request.urlretrieve(img_url, "img.jpg")
+    # img_data = requests.get(img_url).content
+    # with open('img.jpg', 'wb') as handler:
+    #     handler.write(img_data)
