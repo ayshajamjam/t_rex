@@ -2,9 +2,7 @@
 
 This is the Python version of the t_rex_website repository (similar project but it is written in JS and displays the result as a website).
 
-#### Step 1: Query Selection
-
-I used three different APIs to determine the basis for a prompt. The chosen API is randomly selected.
+I used three different APIs to determine the basis for a prompt. The API chosen for this part is randomly selected.
 
 The topic (ex: butterfly catching) is then fed into OpenAI's API to get a picture and appropriate caption.
 
